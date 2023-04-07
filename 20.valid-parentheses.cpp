@@ -19,10 +19,8 @@ public:
             {
                 st.push(ch);
             }
-
             else
             {
-
                 if (!st.empty())
                 {
                     char top = st.top();
