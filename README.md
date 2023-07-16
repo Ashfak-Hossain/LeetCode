@@ -1,4 +1,4 @@
-# LeetCode & GFG-Solutions
+# LeetCode Solutions
 *This are the Collections of LeetCode questions that I have solved till now!! **[Note: This repository gets updated daily with new questions]*** 
 
 <!-- LICENSE -->
