@@ -1,3 +1,5 @@
+/* Better Apporach */
+
 class Solution
 {
 public:
@@ -14,3 +16,6 @@ public:
         return -1;
     }
 };
+
+/* Optimal Approach */
+
